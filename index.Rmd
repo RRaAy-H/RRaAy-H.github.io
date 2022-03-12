@@ -1,0 +1,28 @@
+---
+title: "Ruizhe Huang"
+image: "images/ray.jpg"
+site: distill::distill_website
+links:
+  - label: GitHub
+    url: "https://github.com/RRaAy-H/RRaAy-H.github.io"
+  - label: Email
+    url: "ruizhe.huang@mail.utoronto.ca"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Ruizhe Huang, a student in University of Toronto study in Statistics major with Economics and Mathematics minor. 
+
+## Education
+
+**University of Toronto** | Toronto, ON
+
+Bachelor of Science (Hons) in Statistics major | Expected Graduation: 2023
+
+
+## Experience
+
+**Lu Studio** | Teaching Assistant | July 2020 - June 2021
+

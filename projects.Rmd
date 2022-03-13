@@ -13,10 +13,22 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## My STA302 projects in R
+* Ruizhe Huang, 2021, 'An analysis of what factors have relationship with bridge condition index', 17 December,
+https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/BCI%20project.pdf
 
 ## My STA303 projects in R
+* Ruizhe Huang, 2022, 'An exploration of data wrangling, visualization, hypothesis testing and writing skills', 03 February, 
+https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/mini-portfolio.pdf \
+* Ruizhe Huang, 2022, 'An exploration of linear mixed models and common misconceptions in statistics', 21 February, 
+https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/portfolio.pdf
 
 ## My STA304 projects in R
+* Ruizhe Huang, 2021, 'An Analysis of college type and its net costs', 17 December, https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/An%20Analysis%20of%20college%20type%20and%20its%20costs.pdf \
+* Ruizhe Huang, Helen Han, Xiaoke Zeng, Qianlin Gao, 2021, 'An analysis: Prediction of proportion for voting Canadian Liberal party', 5 November, https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/prediction%20of%20voting%20for%20Canadian%20Liberal.pdf \
+* Ruizhe Huang, 2021, 'Investigates the residents’ satisfaction with university residence’s dining halls', 29 September, 
+https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/dining%20hall%20survey.pdf \
+* Ruizhe Huang, 2021, 'An analysis of fire incidents: What are the variables that could have a relationship with the number of responding personnel', 25 October, https://github.com/RRaAy-H/Projects/blob/baf3bbb31eca177248c97aca5f433456cb724fb6/fire%20incident.pdf
+
 
 
 

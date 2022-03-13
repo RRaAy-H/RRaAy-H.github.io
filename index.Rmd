@@ -13,7 +13,9 @@ output:
  
 ## Bio
 
-Ruizhe Huang, a student in University of Toronto study in Statistics major with Economics and Mathematics minor. 
+I am a student at the University of Toronto studying in Statistics major with an Economics and Mathematics minor. \
+My research interests focus on using R to perform statistical analysis in the area of the regression model. The goal of my research is to investigate the principles underlying the implementation and interpretation of the regression model. How to interpret the p-value of the results is of utmost importance for the regression model. Furthermore, some of the published results that were not reproducible may result from p-hacking, making adjustments to the original experiment design to get favourable or significant results.  \
+I am comfortable with R for data analysis. I used R and R libraries such as tidyverse did many projects in my second and third-year courses. I can conduct the hypothesis test or confidence interval for the population mean, variance and proportion. I can create a model for a given dataset and check the assumptions of the model by residual plot, normal Q-Q plot, and so on. Besides, I can visualize the data with ggplot. I can plot various histograms, boxplots, barplots, and scatterplots. For example, use two-sided boxplots to compare the median values for a categorical variable and a numerical variable. 
 
 ## Education
 
